@@ -1,6 +1,7 @@
 //Define uma função para renderizar a página.
 function Home(){
-    return <h1>Hello World! It's OK!</h1>
+    return <h1>Olá pessoal! Esse é só um lembrete de que Jesus te ama! 
+        Veio, morreu e ressucitou por cada um de nós!</h1>
 }
 
 //Exportar essa função pra fora do arquivo.
